@@ -1,26 +1,5 @@
 //it will contain all the basic things of javascript.
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>JavaScriptBaics</title>
-  </head>
-  <body>
-    <h1 class="head1">This page contains Basics Of JavaScript</h1>
-    <p class="para">
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat
-      incidunt, sunt dicta quasi alias adipisci error nisi sit repellat laborum.
-    </p>
-    <h1 class="head1">Lorem ipsum dolor sit amet.</h1>
-    <p class="para">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-      obcaecati porro iure id consequuntur deleniti iste omnis adipisci odio
-      magnam.
-    </p>
-    <input type="text" name="username">
-    <button id="mybutton" onclick="alert('Button Clicked')">click</button>
+<button id="mybutton" onclick="alert('Button Clicked')">click</button>
     <button onclick="hello() ">click me</button>
     <script>
       //there are three ways we can access the element-
@@ -74,5 +53,3 @@
 
         
     </script>
-  </body>
-</html>
